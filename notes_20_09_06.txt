@@ -1,0 +1,31 @@
+afichage legende
+	rammener min à ( percentile)
+	rammener max à 
+	jaune et rouge
+
+afficher les unités
+
+affichage variabilité intra parcelaire
+hauteur epaisseur
+surface densite
+
+page d'accueil
+	Olivier Naud et Mathilde
+	
+	rajouter logo
+	
+	barre glissante
+	
+variabilité interparcellaire et temporelle
+	changer la photo qui fait tout le bandeau
+	fixer caracterisitique morphologiques
+	
+	chqnger echelle de legende -> 1 seule echelle pour les 2 cartes
+	
+Comparaison
+
+	Actionneur -> Pulverisateur
+	fixer le choix du niveau de risque en terme de protection phyto -> supprimer 
+	1 seule echelle bornée entre 0 et 100 pourcent
+	
+	
